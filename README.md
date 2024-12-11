@@ -1,51 +1,82 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Desafio: Natty or not
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Carta do Dia - O Louco ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia aqui é criar um post para o Instagram com um conteúdo de tarologia, apresentando insights para a carta do dia e trazendo seguidores para consultas particulares de tarot.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei as técnicas de prompts de comando FTAE ensinadas em aulas do curso DIO.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+Carrossel de Instagram sobre a carta O Louco
+
+
+---
+
+Slide 1: Capa
+"Carta do dia: O Louco 🌟✨"
+"Você já tirou O Louco no Tarot e ficou pensando: 'Tá, mas o que isso significa?' 🤔 Bora descobrir juntos, porque essa carta é pura energia e aventura!"
+
+
+---
+
+Slide 2: Introdução
+"O Louco: A Jornada Começa 🎒"
+"O Louco é o ponto de partida, o número 0 do Tarot. Ele nos lembra que todo começo é mágico e cheio de possibilidades. Tá carregando sua bagagem? Porque a jornada é longa, mas cheia de descobertas incríveis!"
+
+
+---
+
+Slide 3: Palavras-chave
+"Principais Significados"
+
+Novos Começos: Algo novo está a caminho, e é melhor se abrir para o inesperado! 🌟
+
+Espontaneidade: Deixe o controle de lado e abrace a aventura. 🌀
+
+Confiança: Siga seu instinto, mesmo que pareça meio louco.
+
+
+
+---
+
+Slide 4: Lado Positivo ☀️
+"O Louco te diz: Arrisque-se!"
+"Essa carta te convida a experimentar o novo, sem medo de errar. Pode ser aquele emprego, aquele amor, ou até mesmo uma viagem que você sonha. Se joga, mas vai com fé no caminho!"
+
+
+---
+
+Slide 5: Lado Desafiador 🌘
+"Mas cuidado com o salto no escuro!"
+"Tá cheio de energia? Ótimo! Mas cuidado com as escolhas impulsivas ou a falta de planejamento. Nem toda aventura vale o tombo, né? ⚠️"
+
+
+---
+
+Slide 6: Reflexão Final 💭
+"Mensagem do Louco para Você:"
+"Seja corajoso e siga sua intuição, mas lembre-se: o Louco tem a cabeça no céu e os pés quase fora do chão. Encontre o equilíbrio e aproveite a jornada!"
+
+
+---
+
+Slide 7: Call to Action 💌
+"Já tirou o Louco no seu jogo? Conta aqui nos comentários como ele apareceu na sua vida! 🃏👇
+Quer uma leitura personalizada? Me chama no direct e vamos explorar o seu Tarot juntas!"
+
+
+---
+
+Estilo Visual: Use uma paleta de cores vibrante, com tons de roxo, dourado e branco. Adicione ilustrações ou gráficos que representem O Louco (como uma figura alegre com uma trouxinha nas costas e um cachorro ao lado). Use fontes modernas e detalhes brilhantes para destacar os textos principais.
+
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Fico sempre chocada quando uso algum recurso com IAs. o resultado é incrível e extremamente verossímil. 
